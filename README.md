@@ -1,4 +1,4 @@
-# 🏦 Svoye Zhil’ye — Mortgage & Banking Analytics Platform
+# 🏦 Svoye Zhil’ye Mortgage & Banking Analytics Platform
 
 > **Automated data integration and analytics system** for aggregating, analyzing, and visualizing mortgage-related statistics from the **Central Bank of Russia (CBR)**.
 
