@@ -33,6 +33,7 @@ venv.bak/
 *.log
 *.sqlite3
 db.sqlite3
+dev.db
 
 # Compiled & distribution files
 dist/
