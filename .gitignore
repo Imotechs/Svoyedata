@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Virtual environment
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environments
+.env
+.env.prod
+.env.production
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache & logs
+*.log
+*.sqlite3
+db.sqlite3
+
+# Compiled & distribution files
+dist/
+build/
+*.egg-info/
+
+# Docker
+docker-compose.override.yml
+*.pid
+
+# FastAPI-specific
+instance/
+gunicorn.log
+gunicorn.error.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Allow email templates build folder
+!app/email-templates/build/
+
+# uploads
+uploads/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# poetry lock
+poetry.lock
